@@ -8,8 +8,12 @@
     "build": "parcel build src/index.html",
     "start": "npm run build && live-server dist"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashwin1014/parcel-starter-template.git"
+  },
   "keywords": [],
-  "author": "",
+  "author": "Ashwin Bordoloi",
   "license": "ISC",
   "dependencies": {
     "@babel/core": "^7.3.4",
