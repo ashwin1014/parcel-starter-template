@@ -1,0 +1,7 @@
+1. npm i parcel-bundler --save
+2. npm i @babel/core @babel/plugin-proposal-class-properties --save
+3. npm i live-server --save
+
+4. setup package.json (as written in file)
+
+npm run dev
